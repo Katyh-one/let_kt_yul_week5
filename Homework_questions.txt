@@ -1,0 +1,12 @@
+Have you achieved this differently:
+> Understanding the use of the different files
+> Logic of the winner - good way of doing it by Yulianna and Leticia to have draw first then player win and then computer outcome is rest
+
+Does anyones solution stand out:
+> Leticia use of slice is very clever to get the computer output to match scissors
+> Getting a written match report
+
+How would you structure your code differently 
+DRY - repeatable code/ reusable code
+
+Would you consider changing the names of your variables or functions?
