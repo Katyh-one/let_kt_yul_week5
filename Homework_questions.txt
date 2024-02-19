@@ -1,12 +1,20 @@
 Have you achieved this differently:
 > Understanding the use of the different files
 > Logic of the winner - good way of doing it by Yulianna and Leticia to have draw first then player win and then computer outcome is rest
+> Repeating the game - Leticia set up choice of number of plays the user can choose and then for loop through that, Katy done while loop based on number of wins for either player or computer
+> on the decisions of who has won using elif multiple times instead using or, dictionary decisions with the keys and values
 
 Does anyones solution stand out:
 > Leticia use of slice is very clever to get the computer output to match scissors
 > Getting a written match report
+> Yulianna done very well writing code considering not in class on Thurs - picked up and did very similar things
 
 How would you structure your code differently 
-DRY - repeatable code/ reusable code
+> DRY - repeatable code/ reusable code
+> using text file to input scoreboard into it
+> spent alot of time on code so need space to think what to do differently
 
 Would you consider changing the names of your variables or functions?
+> makes sense to us but does it make sense to someone else
+> used specific wording for each action we are putting in a function
+> understanding naming function - longer names are they of issue/ straightforward naming?
